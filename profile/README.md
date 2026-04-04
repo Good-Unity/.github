@@ -1,5 +1,6 @@
 # Good-Unity
 
+
 **Ethical AI systems, human-centered infrastructure, and composable public research.**
 
 Good-Unity is a public organization for building modular systems that connect governance, operations, memory, reflection, cohesion, atmosphere, and synthesis into one interoperable architecture.
@@ -14,7 +15,7 @@ Good-Unity exists to publish systems that are:
 - designed for human–AI coordination, not human replacement
 
 ## Repository map
-
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">   <rect width="1200" height="900" fill="#0f172a"/>   <g font-family="A
 | Repository | Role |
 |---|---|
 | `goodshyt-core` | Core primitives, shared models, interfaces, and system logic |
