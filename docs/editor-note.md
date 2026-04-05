@@ -1,0 +1,1 @@
+CKEditor migration note.
